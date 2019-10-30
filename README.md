@@ -1,2 +1,2 @@
-# partners
-7Targets Partners Details
+# legal
+7Targets Legal Details
