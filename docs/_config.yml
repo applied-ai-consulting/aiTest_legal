@@ -1,12 +1,12 @@
 # Site settings
-title: 7Targets Partners
+title: 7Targets Legal
 email: partner@7targets.com
 description: >
-  7Targets AI Sales Assistant Partners 
+  7Targets AI Sales Assistant Legal 
 lang: en-US
 
 # baseurl: "/7targets-docs" # the subpath of your site, e.g. /blog/
-url: https://partner.7targets.com # the base hostname & protocol for your site
+url: https://legal.7targets.com # the base hostname & protocol for your site
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
@@ -50,7 +50,19 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope:
+    path: _others
+    type: others
+  values:
+    layout: others
+    sectionid: others
+    seo:
+      type: "WebPage"      
+
 collections:
   docs:
     permalink: /:collection/:path/
     output: true
+  others:
+    permalink: /:collection/:path/
+    output: true    
