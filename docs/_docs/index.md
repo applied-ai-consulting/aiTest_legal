@@ -5,7 +5,7 @@ redirect_from: /docs/index.html
 ---
 
 ### What is 7Targets Solution ? 
-7Targets provides AI Assistants to enhance the sales and marketing productivity of businesses. To know more about the solution refer [7Targets Help](http://help.7targets.com 7Targets Help Site)  
+7Targets provides AI Assistants to enhance the sales and marketing productivity of businesses. To know more about the solution refer [7Targets Help](http://help.7targets.com)  
 
 ### Who is it for ?
 7Targets Partner Program is for businesses that want to grow their businesses by providing exceptional sales services to their clients.
