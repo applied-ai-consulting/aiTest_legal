@@ -28,7 +28,7 @@ We periodically update these terms and we will let you know when we do via an in
 “Other Products” means those products and services that we offer, which are not included in the Subscription Service (as detailed below); and, for the purposes of this Agreement, Other Products include all products other than 7Targets, and any implementation, customization, training, consulting, additional support or other professional services, or fees for third-party products or services.  
 “Partner Transactions” means those transactions that are eligible for a Revenue Share pursuant to the ‘Partner Transactions’ section of this Agreement.  
 “Program Policies” means the policies applicable to partners.  
-“Revenue Share” means an amount equal to 20% of Net Revenue paid to us by an End User or Partner for a Partner Transaction.  
+“Revenue Share” means an amount equal to 30% of Net Revenue paid to us by an End User or Partner for a Partner Transaction. For 3 years.  
 “Subscription Service” means our AI Sales Assistant software that you subscribe to, and is developed, operated, and maintained by us, accessible via http://solution.7Targets.com or another designated URL, and any add-on products that are included with such software, but excluding all Other Products. For avoidance of doubt, add-on products alone will not be considered Subscription Services for the purposes of meeting Eligibility Requirements.  
 “User Permissions” means the authorization given to users within a 7Targets portal that enables them to access specific resources, such as data and applications.  
 "We", "us", “our”, and “7Targets” means 7Targets AI Sales Assistant LLP.  
