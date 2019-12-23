@@ -14,7 +14,7 @@ As a partner, you’ll get exclusive partner resources and training to help you 
 
 #### Follow below process to become a partner
 - Read the Partner [Terms and Conditions]({{site.baseurl}}{% link _docs/terms.md %})
-- Click on this link to [Apply](https://forms.gle/geuv4w6o4UajeWsR6)
+- Click on this link to [Apply](https://forms.gle/geuv4w6o4UajeWsR6){:target="_blank"}
 - You will receive a confirmation email of your application. It will take few days to make you an Active Partner.
 
 
