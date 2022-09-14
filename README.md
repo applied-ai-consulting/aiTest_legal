@@ -1,2 +1,2 @@
 # legal
-7Targets Partners & Legal Details
+aiTest Partners & Legal Details
