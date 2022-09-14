@@ -4,206 +4,157 @@ permalink: /docs/terms/
 ---
 
 
-## 7Targets Partner Program Agreement
-Last Modified: October 29, 2019  
-PLEASE READ THIS PARTNER PROGRAM AGREEMENT CAREFULLY.
+## aiTest Partner Program Agreement
 
-This is a contract between you (the Partner) and us (7Targets). It describes how we will work together and other aspects of our business relationship. It is a legal document. These terms are so important though that we cannot have you participate in our Partner Program unless you agree to them. By participating in our Partner Program, you are agreeing to these terms.
-We periodically update these terms and we will let you know when we do via an in-app notification in your portal.
 
 ### 1. Definitions  
-“Partner Program” means our partner program as described in this Agreement.  
-“Active Partner” means that you have agreed to the terms of this Agreement and comply with the Eligibility Requirements.  
-"Agreement" means this Partner Program Agreement and all materials referred or linked to in here.  
-“Capacity Limit” means the aggregate number of prospects that you are permitted to have registered at any given time according to the Program Policies.  
-“Customer Terms of Service” means those terms and conditions located at http://legal.7Targets.com/terms-of-service/, as modified from time to time.  
-“Eligibility Requirements” means you have purchased and maintain an active subscription to the 7Targets Service.  
-“End User” means the authorized actual user of the 7Targets and/or the party for whose ultimate benefit the 7Targets are being used.  
-"End User Data" means all information that End User, or you acting on End User’s behalf, submits or collects via the 7Targets Products and all materials that End User, or you acting on End User’s behalf, provides or posts, uploads, inputs or submits for public display through the 7Targets Products.  
-"7Targets Content" means all information, data, text, messages, software, sound, music, video, photographs, graphics, images, and tags that we incorporate into our services.  
-“7Targets Products” means both the Subscription Service and Other Products.  
-“Inactive Partner” means that you do not meet the criteria of an Active Partner (defined above.) 
-“List Price” means the standard pricing for the Subscription Service as listed at http://www.7Targets.ai. We reserve the right to change the pricing at any time. However, we will not apply any price change to End Users who purchase Subscription Service before such price change.  
-“Net Revenue” means the initial fee, any renewal fees, and any upgrade or downgrade fees that are actually paid to us by an End User or by Partner for an End User for the Subscription Service. Net Revenue shall: (i) be calculated net of any discounts, taxes payable and subsequent refunds not due to a contract breach by 7Targets, and (ii) shall exclude any implementation, customization, training, consulting or other professional services, or fees for third-party products or services.  
-“Other Products” means those products and services that we offer, which are not included in the Subscription Service (as detailed below); and, for the purposes of this Agreement, Other Products include all products other than 7Targets, and any implementation, customization, training, consulting, additional support or other professional services, or fees for third-party products or services.  
-“Partner Transactions” means those transactions that are eligible for a Revenue Share pursuant to the ‘Partner Transactions’ section of this Agreement.  
-“Program Policies” means the policies applicable to partners.  
-“Revenue Share” means an amount equal to 15% of Net Revenue paid to us by an End User or Partner for a Partner Transaction. For 3 years.  
-“Subscription Service” means our AI Sales Assistant software that you subscribe to, and is developed, operated, and maintained by us, accessible via http://solution.7Targets.com or another designated URL, and any add-on products that are included with such software, but excluding all Other Products. For avoidance of doubt, add-on products alone will not be considered Subscription Services for the purposes of meeting Eligibility Requirements.  
-“User Permissions” means the authorization given to users within a 7Targets portal that enables them to access specific resources, such as data and applications.  
-"We", "us", “our”, and “7Targets” means 7Targets AI Sales Assistant LLP.  
-“You” and “Partner” means the party, other than 7Targets, entering into this Agreement and participating in the Partner Program.
+
 
 ### 2.  Non-Exclusivity  
-This Agreement does not create an exclusive agreement between you and us. Both you and we will have the right to recommend similar products and services of third parties and to work with other parties in connection with the design, sale, installation, implementation and use of similar services and products of third parties.
+
 
 ### 3.  Partner Transactions  
 **Partner Rights and Obligations.**  
-We grant you, subject to the limitations set forth below, a non-transferable, non-exclusive right to: 
-- demonstrate and promote the 7Targets Products to your prospects and customers, and 
-- to provide End Users access to use the 7Targets Products in accordance with this Agreement and the Customer Terms of Service, provided that End Users agreed to the Customer Terms of Service. At our discretion, we will provide limited sales support to you, such as occasional participation on a call with you and a prospect.  
+  
 
 **Compliance with Program Policies.**  
-You will comply with the terms and conditions of this Agreement at all times.
-You will respect the limits that apply to your use the 7Targets products. We may update or change these Service Limits time to time.  
+ 
 
 **Eligibility.**  
-To be eligible for a Revenue Share, a prospect must be registered, accepted and valid in accordance with the ‘Submission, Acceptance and Validity’ or the ‘Shared Leads’ section.  
-You are not eligible to receive a Revenue Share or any other compensation from us based on transactions for Other Products, based on transactions with a 7Targets Lead (as defined below) or if: (i) such compensation is disallowed or limited by federal, state or local law or regulation of your jurisdiction; (ii) the applicable End User objects to or prohibits such compensation or excludes such compensation from its payments to us or our affiliates; (iii) the End User has paid or will pay such commissions, referral fees, or other compensation directly to you, or (iv) the End User participates in the Partner Program. In competitive situations with other partners, we may elect to enable Cross Sell (where in situations where the Subscription Service or 7Targets are complementary and Cross Sell is otherwise available) or to provide the Revenue Share to the partner that actually secures the business with the End User, which may result in you being ineligible for Revenue Share, regardless of whether or not you registered the prospect. We might also determine that you are not eligible for a Revenue Share if you are no longer actively engaged with the End User. If we request, you will provide validation that the End User is engaged with you (for example, by providing a copy of your retainer agreement with the End User if we so request). We may discontinue Revenue Share payment should any of the eligibility criteria set forth in this subsection fail to be met at any time.  
+ 
 
 **Submission, Acceptance and Validity.**  
-You must register each prospect with us using the tool we provide (or through a website as we may designate) prior to the close of a Partner Transaction. To register a prospect, you must provide at least the following information about each prospect: contact first name, contact last name, email, URL and company name. We generally will accept a prospect who, in our reasonable determination: (i) is a new potential customer of ours; (ii) is not, at the time of submission or sixty (60) days prior, one of our pre-existing customers, involved in our active sales process, and (iii) is a legitimate prospect with valid and legally obtained contact information. At time of registration submission and our evaluation of acceptance, we may also advise you on whether an originally rejected prospect is eligible. Notwithstanding the foregoing, we may choose not to accept a prospect in our reasonable discretion. A prospect is not considered valid: (i) if it is not registered for paid subscription, (ii) if it is not accepted, (iii) if it is expired, (iv) if it exceeds the registered capacity limits or other applicable limits, or (v) after this Agreement is expired or terminated.  
+  
 
-**7Targets Leads.**  
-We may choose to introduce you to, or send you information on, a prospect of ours when we identify that such prospect may have a need for the services you offer (each, a “7Targets Lead”). We can do the same for other partners of ours, even if it is for the same 7Targets Lead. You may use the information about the 7Targets Lead provided only to market and sell your services to them and not for any other purpose (unless the 7Targets Lead otherwise consents). Immediately upon our or the 7Targets Lead’s request, you will promptly discontinue all use of and delete the 7Targets Lead’s information. 7Targets Leads are considered our Confidential Information and shall be treated in accordance with the ‘Confidentiality’ section below.  
+**aiTest Leads.**  
+  
 
 **Shared Leads.**  
-If we decide to participate in the same sales process as you and this results in the sale of the Subscription Service to a prospect that would have otherwise not been valid based on it (i) not being registered, (ii) not being accepted, (iii) being expired, or (iv) exceeding the registered capacity limits or other applicable limits, (each, a “Shared Lead”) and you have an Active Engagement (defined below) with such Shared Lead, then we may consider that Shared Lead a registered, accepted and valid prospect for the purposes of the ‘Eligibility’ section above. An “Active Engagement” means that you have a fully executed written agreement with the Shared Lead under which you are retained to provide services that (i) either pre-dates the time at which the sale of the Subscription Service is closed, or is signed contemporaneously with the close of the sale of the Subscription Service, and (ii) extends at least ninety (90) days beyond the close of the sale of the Subscription Service.  
+ 
 
 **Engagement with Prospects.**  
-If a prospect is not a 7Targets Lead or a Shared Lead but is otherwise valid, we will not engage with that prospect except: (i) to enable our Cross Sell program, (ii) to complete the subscription process, (iii) to fulfill or enforce our obligations under an agreement with such prospect, (iv) to provide support, (v) to conduct our standard marketing and sales activities with prospects that have provided their information to 7Targets, for example, by converting on a landing page of ours or by otherwise subscribing to or requesting any of our marketing materials or a product demonstration, or (vi) as otherwise permitted by this Agreement.  When we do engage, we may choose how and whether to engage with each prospect. We may elect to contact the prospects directly, whether or not such contact is by us directly or in conjunction with you.  Upon our request, you will provide us with the name and contact information of the End User, and facilitate an introduction. If a prospect is not valid then we may choose to maintain it in our database and we may choose to engage with such a prospect.  
-If we request, you will facilitate our participation on calls with you and various End User(s). We may request to participate on these calls in an effort to help to ensure the quality of your service delivery and for the purposes of managing the Partner Program.  
-In a resulting transaction, (i) the End User will contract directly with us for provision of the 7Targets, or (ii) you will place order(s) for the 7Targets with us, specifying the terms of the 7Targets ordered and providing information about the End User as we may request. Option (ii) herein is not possible if resulting transaction is a Cross Sell type transaction. In the case of (ii), where the transaction is not enabled by Cross Sell, you may sell the 7Targets Products to End Users at a price determined solely by you and you will ensure that your agreement with the End User contains those provisions set forth in the our Customer Terms of Service.  Where the transaction is not enabled by Cross Sell and if you purchase on behalf of an End User, you agree to be responsible for the order placed and to guarantee payment of all fees.  We may also require each End User to agree to the Customer Terms of Service.  
-Where the transaction is not enabled by Cross Sell and you purchase a subscription for an End User, such subscription may be used only for the End User for which it was originally purchased, and it may not be repurposed for or reassigned to an alternate End User without our prior written consent.  
-You will take all reasonable steps to ensure that End Users do not use 7Targets in violation of the Customer Terms of Service. If you discover or have reason to believe that any End User is making use of the 7Targets in violation of the Customer Terms of Service, then you will immediately notify us in writing.  
+
 
 ### 4.  Revenue Share and Payment.
 
 **a. Requirements for Payment; Forfeiture.**  
-In order to receive payment under this Agreement, you must: (i) be an Active Partner, which includes having to agree to the terms of this Agreement (agreement to terms of this Agreement must generally be completed when you apply for being an partner); (ii) have provided us with all of your account information, including your bank information; and (iii) submitted to us the necessary tax documents, in addition to the above requirements 4(a)(i-iii) a valid invoice must be sent by email to partner@7Targets.com. In order for you to receive the Revenue Share you must have submitted the required documentation set out in this section 4(a) above no later than 30 days after the end of the fiscal quarter. If we have not received such documentation within this time-frame, we will not process the Revenue Share payment until the next fiscal quarter payment date.  
-All payments by 7Targets will be made by bank transfer or cheque and it is your responsibility to ensure that you have provided us with the most up-to-date and correct bank information to facilitate this. Notwithstanding the foregoing or anything to the contrary in this Agreement, (i) if any of the requirements set forth in section 4(a) remain outstanding for six (6) months immediately following the close of a Partner Transaction, or (ii) we have attempted to pay you a Revenue Share for a Partner Transaction by bank transfer, and the attempt was unsuccessful as confirmed by bank notice, to no fault of our own; and (iii) we reached out to the primary contact on your account to obtain the necessary information and have not received a response; and (iv) six (6) months has passed since the date of the initial, failed bank transfer described herein, then your right to receive Revenue Share arising from any and all Partner Transactions with the associated End User will be forever forfeited (each, a “Forfeited Transaction”). We will have no obligation to pay you Revenue Share associated with a Forfeited Transaction. 
-Once you comply with all of the requirements in section 4(a), then you will be eligible to receive Revenue Share on Partner Transactions, as long as these Partner Transactions do not involve the same End User associated with a Forfeited Transaction.  
+ 
 
 **b. Revenue Share Payment.**  
-We will pay the Revenue Share amount due to you within forty-five (45) days after the end of each fiscal quarter in an amount equal to the Net Revenue we recognize as revenue from Partner Transactions during such quarter, times the Revenue Share percentage. For example, pre-payment in full by an End User for an annual commitment will be recognized by us as revenue quarterly on a pro-rata basis for the length of time the Subscription Service was provided during each quarter during the annual term, and you will receive the Revenue Share on that same quarterly pro-rata basis. We will determine the currency in which we pay the Revenue Share, as well as the applicable conversion rate. The currency in which the Revenue Share is paid in may be different from the currency that applies to the Partner Transaction. We will not pay more than one Revenue Share or other similar referral fee on any given partner sale (unless we choose to in our discretion) and we may apportion a Revenue Share if more than one of our partners has contributed to the close of a sale.  We may withhold the Revenue Share payment until the Revenue Share amount that we owe you is above $100.
-If we update this Agreement to include additional products for which you are eligible to earn Revenue Share, the obligation to pay this additional Revenue Share amount will apply starting on the first day of the month when the additional product was included in the Agreement.  
+ 
 
 **c. Taxes.**  
-You are responsible for payment of all taxes applicable to the Revenue Share. You will be assessed appropriate taxes unless you provide us with a valid certificate that indicates such tax should not be applied to the Revenue Share amount.  All amounts payable by us to you are subject to offset by us against any amounts owed by you to us.    
+   
 
 ### 5.  Training and Support.  
 
 **Partner Training and Support.**  
-We will make available to you, without charge, the webinars and other resources at http://help.7Targets.com. You will encourage your sales representatives and other relevant personnel to participate in our online end-user training and other such programs, as well as any training we may offer in new features. You may be eligible to receive certain technical support offerings. Such technical support program offerings are provided under our technical support policies in effect at the time the support is provided. We may also choose to make benefits or offerings available dependent on the applicable partner status. We may change or discontinue any or all parts of the Partner Toolset, and any other Partner Program benefits or offerings at any time without notice.  
+  
 
 **End User Training and Support.**  
-We may provide user training to an End User. We may communicate directly with any End User about use of the 7Targets Products and any support issues experienced.  
-In the event you placed the order with us for an End User or standard on-boarding is not included in a Partner Transaction, you will be responsible for all End User questions and requests for additional support or training for  7Targets. In such an event, you may consult with us with regards to providing support to End Users, but we will not provide direct support to End Users unless we determine that it is necessary.  
+  
 
 **Test Portal.**  
-If we make a 7Targets Test Portal available to you, then you will use the Test Portal solely for your education, demonstration and evaluation purposes only, and you are not permitted to use it for any other purpose.  You will not lease, distribute, license, sell or otherwise commercially exploit the Test Portal. The Customer Terms of Service apply to your use of the Test Portal.  As indicated in the Customer Terms of Service, you will comply with our Acceptable Use Policy with respect to your use of the Test Portal.  We reserve the right to suspend, modify, or discontinue any or all part of the Test Portal at any time without prior notice to you. In the event of a conflict between the terms that apply to the Test Portal as specified in this Agreement and the Customer Terms of Service, the terms of this Agreement shall control.
+
 
 ### 6.  Trademarks
 
-You grant to us a nonexclusive, nontransferable, royalty-free right to use and display your trademarks, service marks and logos (“Partner Marks”) in connection with the Partner Program and this Agreement. 
-During the term of this Agreement, you may use our trademark as long as you follow the usage requirements in this section.  You must: (i) only use the images of our trademark that we make available to you, without altering them in any way; (ii) only use our trademarks in connection with the Partner Program and this Agreement; and (iii) immediately comply if we request that you discontinue use.  You must not: (i) use our trademark in a misleading or disparaging way; (ii) use our trademark in a way that implies we endorse, sponsor or approve of your services or products; or (iii) use our trademark in violation of applicable law or in connection with an obscene, indecent, or unlawful topic or material.  
 
 ### 7.  Proprietary Rights  
 
-**7Targets’s Proprietary Rights.**  
-No license to any software is granted by this Agreement. The 7Targets Products are protected by intellectual property laws. The 7Targets Products belong to and are the property of us or our licensors (if any). We retain all ownership rights in the 7Targets Products. You agree not to copy, rent, lease, sell, distribute, or create derivative works based on the 7Targets Content, or the 7Targets Products in whole or in part, by any means, except as expressly authorized in writing by us. 7Targets logos, and other marks that we use from time to time are our trademarks and you may not use them without our prior written permission, except as otherwise set forth in this Agreement.  
-We encourage all customers and partners to comment on the 7Targets Products, provide suggestions for improving them, and vote on suggestions they like. You agree that all such comments and suggestions will be non-confidential and that we own all rights to use and incorporate them into the 7Targets Products, without payment to you.  
+**aiTest’s Proprietary Rights.**  
+  
 
 **End User’s Proprietary Rights.**  
-As between you and End User, End User retains the right to access and use the End User portal associated with the 7Targets Products regardless of whether you placed the order with us for an End User or made or make payments for an End User. End User will own and retain all rights to the End User Data. If we deem it to be necessary based on the relationship status between you and the End User or the particular situation, we may communicate directly with the End User and/or may port ownership of the portal associated with the 7Targets Products to the End User.
-Please note that any End User portal may have more than one Partner involved in their use of the 7Targets Products. All information and data about you in the End User portal may be visible to all users of the End User portal, and will not be considered Confidential Information between you and other users of the portal. It is the End User’s responsibility to set the User Permissions to control the access and visibility of all information and data in the End User portal.  
+ 
 
 ### 8.  Confidentiality 
-As used herein, “Confidential Information” means all confidential information disclosed by a party ("Disclosing Party") to the other party (“Receiving Party”), (i) whether orally or in writing, that is designated as confidential, and (ii) 7Targets customer and prospect information, whether or not otherwise designated as confidential. Confidential Information does not include any information that (i) is or becomes generally known to the public without breach of any obligation owed to the Disclosing Party or (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party. 
-The Receiving Party shall: (i) protect the confidentiality of the Confidential Information of the Disclosing Party using the same degree of care that it uses with its own confidential information, but in no event less than reasonable care, (ii) not use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement, (iii) not disclose Confidential Information of the Disclosing Party to any third party, and (iv) limit access to Confidential Information of the Disclosing Party to its employees, contractors and agents. The Receiving Party may disclose Confidential Information of the Disclosing Party if required to do so under any federal, state, or local law, statute, rule or regulation, subpoena or legal process.  
+  
 
 ### 9.  Opt Out and Unsubscribing  
-You will comply promptly with all opt out, unsubscribe, "do not call" and "do not send" requests, including without limitation such requests from us related to 7Targets Leads and Shared Leads.  For the duration of this Agreement, you will establish and maintain systems and procedures appropriate to effectuate all opt out, unsubscribe, "do not call" and "do not send" requests.
+
 
 ### 10.  Term and Termination  
 **Term.**  
-This Agreement will apply for as long as you participate in the Partner Program, until terminated.  
+ 
 **Termination Without Cause.**  
-Both you and we may terminate this Agreement on sixty (60) days written notice to the other party.  
+ 
 **Termination of Inactive Partners.**  
-If you are an Inactive Partner, then we may terminate this Agreement on thirty (30) days written notice to you.  If, within twenty-one (21) days from the date of such notice, you present us with a plan that will result in you becoming an Active Partner, we will consider this plan in good faith.  We may then choose to notify you in writing that we withdraw our notice of termination, in which case the Agreement will not terminate.  
+  
 **Termination for Cause.**  
-We may terminate this Agreement and/or suspend your or the End User’s access to the 7Targets Products: (i) upon thirty (30) days’ notice to you of a material breach if such breach remains uncured at the expiration of such period, (ii) upon fifteen (15) days notice to you of non-payment of any amount due to us if such amount remains unpaid at the expiration of such period, (iii) immediately, if you become the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors, (iv) immediately, if the End User violates the Customer Terms of Service or applicable local, state, federal, or foreign laws or regulations, (v) immediately, if you breach the terms applicable to your subscription with us (if you have one), including if you default on your payment obligations to us or our affiliate, or (vi) immediately, if we determine that you are acting, or have acted, in a way that has or may negatively reflect on or affect us, our prospects, or our customers.  
+ 
 **Effects of Expiration/Termination.**  
-Expiration of this Agreement, and termination of this Agreement without cause by us or by you with cause, shall not affect our obligation to pay you a Revenue Share, so long as the related payment by the End User is recognized by us within thirty (30) days after the date of such termination or expiration. If this happens, you will receive one last payment of Revenue Share upon completion of the quarter in which the related payment by the End User is recognized. We will not pay you fees on End User payments recognized by us after thirty (30) days after the date of such termination or expiration.  Provided however, in the event of termination without cause by you, or for cause by us, our obligation to pay and your right to receive any Revenue Share will terminate upon the date of such termination, regardless of whether you would have otherwise been eligible to receive Revenue Share prior to the date of termination.  Except as expressly set forth in this section, you are not eligible to receive a Revenue Share after expiration or termination of this Agreement. Upon termination or expiration, you will discontinue all use of and delete all 7Targets Leads and Shared Leads if we provided them to you and you do not otherwise have consent from the applicable 7Targets Lead or Shared Lead to continue use of their data and information. Upon termination or expiration, a prospect is not considered valid, and we may choose to maintain it in our database and engage with such a prospect. 
-Upon termination or expiration, you will immediately discontinue all use of our trademark, and will remove all 7Targets badges and Partner Program tier information and references from your website(s) and other collateral. Termination or expiration of this Agreement shall not cause your or an End User’s subscription agreement to be terminated.  
+ 
 
 ### 11.  Partner Representations and Warranties  
-You represent and warrant that: (i) you have all sufficient rights and permissions to provide the prospect data to us for our use in sales and marketing efforts or as otherwise set forth in this Agreement, (ii) your participation in this Partner Program will not conflict with any of your existing agreements or arrangements; and (iii) you own or have sufficient rights to use and to grant to us our right to use the Partner Marks.  
+  
 
 ### 12.  Indemnification  
-You will indemnify, defend and hold us harmless, at your expense, against any third-party claim, suit, action, or proceeding (each, an "Action") brought against us (and our officers, directors, employees, agents, service providers, licensors, and affiliates) by a third party not affiliated with us to the extent that such Action is based upon or arises out of (a) your participation in the Partner Program, (b) our use of the prospect data you provided us, (c) your noncompliance with or breach of this Agreement, (d) your use of the Test Portal, or (e) our use of the Partner Marks. We will: notify you in writing within thirty (30) days of our becoming aware of any such claim; give you sole control of the defense or settlement of such a claim; and provide you (at your expense) with any and all information and assistance reasonably requested by you to handle the defense or settlement of the claim. You shall not accept any settlement that (i) imposes an obligation on us; (ii) requires us to make an admission; or (iii) imposes liability not covered by these indemnifications or places restrictions on us without our prior written consent.  
+  
 
 ### 13.  Disclaimers; Limitations of Liability  
 **Disclaimer of Warranties.**  
-WE AND OUR AFFILIATES AND AGENTS MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT THE SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, SECURITY OR ACCURACY OF THE 7Targets PRODUCTS, 7Targets CONTENT, THE Partner PROGRAM OR THE TEST PORTAL FOR ANY PURPOSE. APPLICATION PROGRAMMING INTERFACES (APIs) AND THE TEST PORTAL MAY NOT BE AVAILABLE AT ALL TIMES. TO THE EXTENT PERMITTED BY LAW, THE 7Targets PRODUCTS, AND TEST PORTAL ARE PROVIDED "AS IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. WE DISCLAIM ALL WARRANTIES AND CONDITIONS OF ANY KIND WITH REGARD TO THE 7Targets PRODUCTS AND THE TEST PORTAL  INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.  
+ 
 **No Indirect Damages.**  
-TO THE EXTENT PERMITTED BY LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS OR BUSINESS OPPORTUNITIES.  
+ 
 **Limitation of Liability.**  
-IF, NOTWITHSTANDING THE OTHER TERMS OF THIS AGREEMENT, WE ARE DETERMINED TO HAVE ANY LIABILITY TO YOU OR ANY THIRD PARTY, THE PARTIES AGREE THAT OUR AGGREGATE LIABILITY WILL BE LIMITED TO THE TOTAL REVENUE SHARE AMOUNTS YOU HAVE ACTUALLY EARNED FOR THE RELATED PARTNER TRANSACTION IN THE TWELVE MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO A CLAIM.
-**Test Portal** WE DISCLAIM ALL LIABILITY WITH RESPECT TO THE TEST PORTAL THAT YOU USE.  
+
+**Test Portal**  
 
 ### 14.  Non-Solicitation  
-You agree not to intentionally solicit for employment any of our employees or contractors during the term of this Agreement and for a period of twelve (12) months following the termination or expiration of this Agreement.  Both you and we acknowledge that (i) any newspaper or other public solicitation not directed specifically to such person shall not be deemed to be a solicitation for purposes of this provision, and (ii) this provision is not intended to limit the mobility of either our employees or contractors.  
+  
 
 ### 15.  General
 **Amendment; No Waiver.**  
-We may update and change any part or all of this Agreement. If we update or change this Agreement, the updated Agreement will be posted at http://legal.7Targets.com/ and we will let you know. The updated Agreement will become effective and binding on the next business day after it is posted. When we change this Agreement, the "Last Modified" date above will be updated to reflect the date of the most recent version. We encourage you to review this Agreement periodically.
-If you do not agree with a modification to this Agreement, you must notify us in writing within thirty (30) days after receiving notice of modification. If you give us this notice, this Agreement will terminate sixty (60) days after we receive this notice and our relationship will continue to be governed by the terms and conditions of the version of this Agreement applicable immediately prior to modification for the remainder of the Agreement term. No delay in exercising any right or remedy or failure to object will be a waiver of such right or remedy or any other right or remedy. A waiver on one occasion will not be a waiver of any right or remedy on any future occasion.  
+  
 **Applicable Law.**  
-This Agreement shall be governed by the laws of the Government of India, without regard to the conflict of laws provisions thereof. In the event either of us initiates an action in connection with this Agreement or any other dispute between the parties, the exclusive venue and jurisdiction of such action shall be in the courts in Pune, Maharashtra.  
+  
 **Force Majeure.**  
-Neither party will be responsible for failure or delay of performance if caused by: an act of war, hostility, or sabotage; act of God; electrical, internet, or telecommunication outage that is not caused by the obligated party; government restrictions; or other event outside the reasonable control of the obligated party. Each party will use reasonable efforts to mitigate the effect of a force majeure event.  
+  
 **Actions Permitted.**  
-Except for actions for nonpayment or breach of a party’s proprietary rights, no action, regardless of form, arising out of or relating to this Agreement may be brought by either party more than one (1) year after the cause of action has accrued.
+
 **Relationship of the Parties.**  
-Both you and we agree that no joint venture, partnership, employment, or agency relationship exists between you and us as a result of this Agreement.  
+ 
 **Compliance with Applicable Laws.**  
-You shall comply, and shall ensure that any third parties performing sales or referral activities on your behalf comply, with all applicable foreign and domestic laws (including without limitation export laws and laws applicable to sending of unsolicited email), governmental regulations, ordinances, and judicial administrative orders. You shall not engage in any deceptive, misleading, illegal or unethical marketing activities, or activities that otherwise may be detrimental to us, our customers, or to the public. Export laws and regulations and any other relevant local export laws and regulations may apply to the 7Targets Products. You will not directly or indirectly export, re-export, or transfer the 7Targets Products to prohibited countries or individuals or permit use of the 7Targets Products by prohibited countries or individuals.  
+  
 **Data Processing.**  
-To the extent that any Personal Data is processed in connection with the Partner Program the terms set forth in Exhibit A, which are hereby incorporated by reference, shall apply.  
+  
 **Severability.**  
-If any part of this Agreement is determined to be invalid or unenforceable by applicable law, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of this Agreement will continue in effect.  
+  
 **Notices.**  
-Notice will be sent to the contact address set forth herein (as such may be changed by notice given to the other party), and will be deemed delivered as of the date of actual receipt.
-To 7Targets: 7Targets AI Assistants LLP, 91Springboard, Creaticity Mall, Yerwada, Pune, Maharashtra 411016, India   
-To you: your address as provided in our partner account information for you. We may give electronic notices by general notice via the partner portal and may give electronic notices specific to you by email to your e-mail address(es) on record in our account information for you. We may give notice to you by telephone calls to the telephone numbers on record in our account information for you.  
+  
 **Entire Agreement.**  
-This Agreement is the entire agreement between us for Partner Program and supersedes all other proposals and agreements (including all prior versions of the 7Targets Partner Program Agreement, if any), whether electronic, oral or written, between us. We object to and reject any additional or different terms proposed by you, including those contained in your purchase order, acceptance or website. Our obligations are not contingent on the delivery of any future functionality or features of the 7Targets Products or dependent on any oral or written public comments made by us regarding future functionality or features of the 7Targets Products. It is the express wish of both you and us that this Agreement and all related documents be drawn up in English. We might make versions of this Agreement available in languages other than English. If we do, the English version of this Agreement will govern our relationship and the translated version is provided for convenience only and will not be interpreted to modify the English version of this Agreement.  
+  
 **Assignment.**  
-You will not assign or transfer this Agreement, including any assignment or transfer by reason of merger, reorganization, sale of all or substantially all of its assets, change of control or operation of law, without our prior written consent. We may assign this Agreement to any affiliate or in the event of merger, reorganization, sale of all or substantially all of our assets, change of control or operation of law.  
+  
 **No Third Party Beneficiaries.**  
-Nothing in this Agreement, express or implied, is intended to or shall confer upon any person or entity (other than the parties hereto) any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.  
+  
 **Program Policies.**  
-We may change the Program Policies from time to time and will inform you. Your participation in the Partner Program is subject to the Program Policies.  
+  
 **No Licenses.**  
-We grant to you only the rights and licenses expressly stated in this Agreement, and you receive no other rights or licenses with respect to us, the 7Targets Products, our trademarks, or any other property or right of ours.  
-**Sales by 7Targets.**  
-This Agreement shall in no way limit our right to sell the 7Targets Products, directly or indirectly, to any current or prospective customers.  
+
+**Sales by aiTest.**  
+  
 **Authority.**  
-Each party represents and warrants to the other that it has full power and authority to enter into this Agreement and that it is binding upon such party and enforceable in accordance with its terms.  
+  
 **Survival.**  
-The following sections shall survive the expiration or termination of this Agreement: ‘Revenue Share and Payment’, ‘Proprietary Rights’, ‘Confidentiality’, ‘Effects of Termination/Expiration’, ‘Indemnification’, ‘Disclaimers; Limitation of Liability’, ‘Non-Solicitation’ and ‘General’.
+
 
 ### Exhibit A 
-7Targets – GDPR Data Processing Addendum (Partners)
-This Data Processing Addendum ("Addendum") sets out the terms that apply as between 7Targets and Partner when processing EEA personal data in connection with the Partner Program.  This Addendum forms part of the Partner Program Agreement. Capitalized terms used in this Addendum shall have the meanings given to them in the Partner Program Agreement (the "Agreement") unless otherwise defined in this Addendum.  
+  
 **Definitions:**  
-(a) "controller," "processor," "data subject," and "processing" (and "process") shall have the meanings given to them in Applicable Data Protection Law;  
-(b) "Applicable Data Protection Law" means any and all applicable privacy and data protection laws and regulations applicable to the Personal Data in question, including, where applicable, EU Data Protection Law (in each case, as may be amended, superseded or replaced from time to time);  
-(c) "EU Data Protection Law" means: (i) the EU General Data Protection Regulation (Regulation 2016/679) ("GDPR"); and (ii) the EU e-Privacy Directive (Directive 2002/58/EC); and (iii) any national data protection laws made under or pursuant to clause (i) or (ii); and  
-(d) "Personal Data" means any information relating to an identified or identifiable natural person to the extent that such information is protected as personal data under Applicable Data Protection Law.  
+  
 **Purposes of processing.**  
-The parties acknowledge that in connection with the Partner Program, each party may provide or make available to the other party Personal Data.  Each party shall process such data: (i) for the purposes described the Agreement; and/or (ii) as may otherwise be permitted under Applicable Data Protection Law.  
+
 **Relationship of the parties.**  
-Each party will process the copy of the Personal Data in its possession or control as an independent controller (not as a joint controller with the other party). For the avoidance of doubt and without prejudice to the foregoing, 7Targets shall be an independent controller of any Personal Data that it receives or shares with Partner in connection with the Partner Program.  
+ 
 **Compliance with law.**  
-Each party shall separately comply with its obligations under Applicable Data Protection Law and this Addendum when processing Personal Data.  Neither party shall be responsible for the other party's compliance with Applicable Data Protection Law. In particular, each party shall be individually responsible for ensuring that its processing of the Personal Data is lawful, fair and transparent, and shall make available to data subjects a privacy statement that fulfills the requirements of Applicable Data Protection Law.  
+  
 **International transfers.**  
-Where Applicable Data Protection Law in the European Economic Area ("EEA"), and/or its member states, United Kingdom and/or Switzerland (collectively for the purposes of this Addendum, the "EU'), applies to the Personal Data ("EU Personal Data"), neither party shall process any EU Personal Data (nor permit any EU Personal Data to be processed) in a territory outside of the EU  unless it has taken such measures as are necessary to ensure the transfer is in compliance with Applicable Data Protection Law. To the extent Partner transfers EU Personal Data to 7Targets and 7Targets is located in a territory outside the EU that does not provide adequate protection for Personal Data (as determined by Applicable Data Protection Law),  7Targets agrees to abide by and process such EU Personal Data in accordance with the Standard Contractual Clauses for Controllers as approved by the European Commission and available at http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915 (as amended, superseded or updated from time to time) ("Model Clauses"), which are incorporated by reference in, and form an integral part of, this Addendum. 7Targets agrees that it is a "data importer" and Partner is the "data exporter" under the Model Clauses (notwithstanding that 7Targets may be an entity located outside of the EEA).  
+  
 **Security:**  
-Each party shall implement and maintain all appropriate technical and organizational measures to protect any copies of the Personal Data in their possession or control from (i) accidental or unlawful destruction, and (ii) loss, alteration, or unauthorized disclosure or access (a "Security Incident") and to preserve the security and confidentiality of such Personal Data. Each party shall notify the other party without undue delay on becoming aware of any breach of EU Data Protection Law/Applicable Data Protection Law.  
+ 
 **Cooperation and data subjects' rights.**  
-In the event that either party receives: (i) any request from a data subject to exercise any of its rights under Applicable Data Protection Law (including its rights of access, correction, objection, erasure, restriction or data portability, as applicable); or (ii) any other correspondence, enquiry or complaint received from a data subject, regulator or other third party in connection with the processing of the Personal Data (collectively, "Correspondence"), then where such Correspondence relates to processing conducted by the other party, it shall promptly inform the other party and the parties shall cooperate in good faith as necessary to respond to such Correspondence and fulfill their respective obligations under Applicable Data Protection Law.
+
 
 
